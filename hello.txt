@@ -7,3 +7,4 @@ modification 6th
 conflict master/dev
 more changes 7
 what's diff?
+master change 8

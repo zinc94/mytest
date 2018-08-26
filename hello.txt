@@ -5,3 +5,4 @@ change from my2nd branch
 change from my5th branch
 modification 6th
 conflict master/dev
+more changes 7

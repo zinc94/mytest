@@ -9,3 +9,6 @@ more changes 7
 what's diff?
 master change 8
 added dev 8
+staged here
+working more on it
+more

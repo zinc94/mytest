@@ -5,4 +5,5 @@ remotely added 2nd line
 line 3
 remotely added 3rd line
 remotely added 4th line
+remotely change, before feature a branch
 feature a line 1

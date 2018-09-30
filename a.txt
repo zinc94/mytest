@@ -6,3 +6,4 @@ remote added line4 after feature c branch created
 line 3 from feature c branch
 remote line 5
 remote line 6
+line 4 from master branch

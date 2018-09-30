@@ -1,2 +1,3 @@
 line 1
 remote added line2
+line 2
